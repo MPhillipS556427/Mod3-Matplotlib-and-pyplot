@@ -43,11 +43,7 @@ Contributions to this repository are welcome. If you have any suggestions, impro
 
 ## Contact
 
-If you have any questions, feedback, or inquiries regarding this project, please contact Malcolm Phillip at .
+If you have any questions, feedback, or inquiries regarding this project, please contact Malcolm Phillip at S556427@nwmissouri.edu. 
 
 Enjoy exploring the code and visualizations in this repository!
 Each question is worth two points: 
-
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
